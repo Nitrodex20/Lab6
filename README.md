@@ -1,2 +1,2 @@
 # Lab6
- 
+ In this lab assignment, I write an efficient recursive function that takes in a sorted array of numbers, two integers, low and high, representing indexes into the array, and another integer, value, and returns the index in the array where the weight is found in the variety in between index low and high, inclusive. If value is NOT found in the variety between indexes low and high, inclusive, then the function should return -1. I will be given the base code in the repository of the teacher.
